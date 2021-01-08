@@ -1,0 +1,2 @@
+include ':app',"lib_mb_break_pad"
+rootProject.name = "BreakpadTestDemo"
